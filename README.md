@@ -6,4 +6,4 @@ emerging technology.
 - Deep knowledge of Front-end techniques and a strong understanding of web frameworks are my superior
 strength.
 
-<a href="https://app.daily.dev/vucat12"><img src="https://api.daily.dev/devcards/3ff4766756524aa3a45efd4b5d200496.png?r=2yp" width="400" alt="Cat Vu's Dev Card"/></a>
+<a><img src="https://api.daily.dev/devcards/3ff4766756524aa3a45efd4b5d200496.png?r=2yp" width="400" alt="Cat Vu's Dev Card"/></a>
